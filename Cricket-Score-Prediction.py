@@ -137,7 +137,7 @@ def main():
         st.dataframe(dataset.sample(100))
 
     st.markdown("""
-    <div class="footer">Created By <a href="https://dhruvpatelofficial.vercel.app" target="_blank">Dhruv Patel</a></div>
+    <div class="footer">Created By <a href="https://dhruvpatelofficial.vercel.app" target="_blank">Mayank Goyal</a></div>
     """, unsafe_allow_html=True)
 
 if __name__ == "__main__":
